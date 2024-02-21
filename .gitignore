@@ -1,0 +1,318 @@
+Jupyter Lecture Notes/Crawler/Crawler.ipynb
+Jupyter Lecture Notes/Crawler/DS122.html
+Jupyter Lecture Notes/Crawler/LinkCollector.py
+Jupyter Lecture Notes/HTML Lecture Notes/01-Intro-Probability-Review.html
+Jupyter Lecture Notes/HTML Lecture Notes/02-Distributions.html
+Jupyter Lecture Notes/HTML Lecture Notes/03-Continuous-Distributions.html
+Jupyter Lecture Notes/HTML Lecture Notes/04-Joint-Distributions.html
+Jupyter Lecture Notes/HTML Lecture Notes/05-Functions-of-Random-Variables.html
+Jupyter Lecture Notes/HTML Lecture Notes/06-Frequentism.html
+Jupyter Lecture Notes/HTML Lecture Notes/07-Central-Limit-Theorem.html
+Jupyter Lecture Notes/HTML Lecture Notes/08-Sampling.html
+Jupyter Lecture Notes/HTML Lecture Notes/09-Confidence.html
+Jupyter Lecture Notes/HTML Lecture Notes/10-Hypothesis-Testing.html
+Jupyter Lecture Notes/HTML Lecture Notes/10-Testing-in-Practice.html
+Jupyter Lecture Notes/HTML Lecture Notes/11-Multiple-Hypothesis-Testing.html
+Jupyter Lecture Notes/HTML Lecture Notes/12-Testing-in-Practice.html
+Jupyter Lecture Notes/HTML Lecture Notes/13-Error-Rate-and-False-Discovery.html
+Jupyter Lecture Notes/HTML Lecture Notes/14-Parameter-Estimation-Estimators.html
+Jupyter Lecture Notes/HTML Lecture Notes/15-Parameter-Estimation-Model-Fitting.html
+Jupyter Lecture Notes/HTML Lecture Notes/16-Bayes-Theorem.html
+Jupyter Lecture Notes/HTML Lecture Notes/17-Bayes-Theorem-Part2.html
+Jupyter Lecture Notes/HTML Lecture Notes/18-Distributions.html
+Jupyter Lecture Notes/HTML Lecture Notes/19-Estimating-Proportions.html
+Jupyter Lecture Notes/HTML Lecture Notes/20-Estimating-Counts.html
+Jupyter Lecture Notes/HTML Lecture Notes/21-Parameter-Estimation-MLE.html
+Jupyter Lecture Notes/HTML Lecture Notes/22-Bayesian-Testing.html
+Jupyter Lecture Notes/HTML Lecture Notes/23-Comparison.html
+Jupyter Lecture Notes/HTML Lecture Notes/24-Classification.html
+Jupyter Lecture Notes/HTML Lecture Notes/25-Inference.html
+Jupyter Lecture Notes/HTML Lecture Notes/26-Inference-Part2.html
+Jupyter Lecture Notes/HTML Lecture Notes/27-Conjugate-Priors.html
+Jupyter Lecture Notes/HTML Lecture Notes/28-Markov-Chains.html
+Jupyter Lecture Notes/HTML Lecture Notes/29-MCMC.html
+Jupyter Lecture Notes/HTML Lecture Notes/30-MCMC-2-PyMC.html
+Jupyter Lecture Notes/HTML Lecture Notes/31-HMM-1.html
+Jupyter Lecture Notes/HTML Lecture Notes/32-HMM-2.html
+Jupyter Lecture Notes/HTML Lecture Notes/33-HMM-3.html
+Jupyter Lecture Notes/HTML Lecture Notes/34-Gradients.html
+Jupyter Lecture Notes/HTML Lecture Notes/35-Gradient-Descent.html
+Jupyter Lecture Notes/HTML Lecture Notes/36-Improvements-to-GD.html
+Jupyter Lecture Notes/HTML Lecture Notes/37-Poisson-Processes.html
+Jupyter Lecture Notes/images/0b5ad9218c8aaf69667bfa9cc025be2cfa648b77d4159bfa9f44f4f204138007.png
+Jupyter Lecture Notes/images/0baec515039864c56f5fd20c937cd744a7f9ac1d566e3574abca87d00cbcc1dd.png
+Jupyter Lecture Notes/images/0d44ebcca57792dbadff2a57ea8c42dc72965ab46cdc0604a48ec6719d5ff014.png
+Jupyter Lecture Notes/images/00de7e4e06b33f96f9e92ebe658e93f13bddd920eda7348522ff3c1c4e8121dd.png
+Jupyter Lecture Notes/images/0f78da1631e8f2d66a0b919f1c688f4d5a04a0f7dd6d6e4710d50b1dbfc50352.png
+Jupyter Lecture Notes/images/0f482552cc2cf3f6f071cc4a55f48c148754bce46410ed8d6a2b12e38c047b8f.png
+Jupyter Lecture Notes/images/1a73b6ce8dba98fc422c72078b888b77f9e79b9d6a221ca5e607c03a870bcdc7.png
+Jupyter Lecture Notes/images/1a362695071545ce2a34cffb4c6f9bca37eb81e5e6300c7206a14fcb94e907f0.png
+Jupyter Lecture Notes/images/01ca9a347e63b639b0a15960a8ff8fd300d8e2fc2687098b7617a1718f6e1144.png
+Jupyter Lecture Notes/images/2ca75a84e9f71b2569e8beed91de753cdc264316219717a96129e30b058a4cd5.png
+Jupyter Lecture Notes/images/02d2292e06db330fb5f312e327b780af5a2f0405c210d9136413dd1e5cd16d9c.png
+Jupyter Lecture Notes/images/2e5af4235cf1329cdb97e50c02be5000b956906beba745f331e4592af7a68b33.png
+Jupyter Lecture Notes/images/2f4de169d5884c3c40c7e6d11701eb353f2138683c4acfff2114dda4520c14b6.png
+Jupyter Lecture Notes/images/2fe2ace9afb09b32ab33805aadc7cdee3108606f1f65592a72bb064bfdf61b5b.png
+Jupyter Lecture Notes/images/3cc65ffafd887993a922f0b605e494b08fdac83d9d5d0094a37f476f207a36ec.png
+Jupyter Lecture Notes/images/4a68f06990a0d0321b69883892f74071d034d95240042d0afc4f22f644d72093.png
+Jupyter Lecture Notes/images/4df2320d225b602cc76fd7cf0330d4a3ef793fc73f22c17f53a27d1d7c0010e6.png
+Jupyter Lecture Notes/images/5a32737483db80494dd0da3ab15ad7c3ed779bcb087356d83bf265c51635dc5c.png
+Jupyter Lecture Notes/images/5bad884e353ae118bb468130f33d50e4f88b1b1f14c6dfff90c71974cc32ba4c.png
+Jupyter Lecture Notes/images/5c6975ac3930118a1dd8683f7d0e986d2a15d58bd05a47363eb32b51e221f18c.png
+Jupyter Lecture Notes/images/5e28d92ec82a700c1fd90fff5efa63c4d236f6043707222fcf659a6f475a90fa.png
+Jupyter Lecture Notes/images/5f11c9da28e73bcbe93ff3c844c992d3630342ca7bdef7f0e734d37138d4e030.png
+Jupyter Lecture Notes/images/6d1bd3e6e5f69c0488ae9f4cf1826c2227fbb5af727d260f960370df281e6998.png
+Jupyter Lecture Notes/images/6ee21dc9f640ca069d8fb806eae775555fd84f847149601216de4bc99dcb40d8.png
+Jupyter Lecture Notes/images/6ef71057f53e63faeed6c6e0dfab6003e3e8b232aa84b114b443e8f07a649046.png
+Jupyter Lecture Notes/images/7b0878feb1fdbcf9271d39ea2dc09240925a8e5966a1f26e139c81310d6394a1.png
+Jupyter Lecture Notes/images/7ec32e16109f98f26dd4d9f1bf3fbc0e32529162ad91edd2f3cc8efb8b5e284a.png
+Jupyter Lecture Notes/images/8a9b3e4280c6d4c2ab00dc4e6b350010af38775b3c772e0644e54ce1b9a567f3.png
+Jupyter Lecture Notes/images/8caef5fdb57e6611a362560890667d341b4e46d2b2d336c47698190f32715312.png
+Jupyter Lecture Notes/images/8d5fc276101f980dda85a5056df4aa731aef802e57323a4fee37eb2594683827.png
+Jupyter Lecture Notes/images/8de06b80c844f7cadffadd73d06d15a69887fe821f2573e01504be90c305a09b.png
+Jupyter Lecture Notes/images/8ed8c6959cb69a2e2181a3975933273a19216d647b3b3c56eca649c405587680.png
+Jupyter Lecture Notes/images/9a01c7e276c4ca596048d3d21ec1b5f2a221761cbd31e475e06bf2185c529f87.png
+Jupyter Lecture Notes/images/9c06b780df30429c4d292ba8d2f0095e83bd7e3d501e7afb9b0f5312d5074cc3.png
+Jupyter Lecture Notes/images/9f3e1a261bd73a7938ed46d2985fc01009b78a7cba89e28ca7fd29f0001b85d7.png
+Jupyter Lecture Notes/images/25cbaad5511d3bf1715a070ff21f060e037c0b7a40a110798e0f971cdc85f718.png
+Jupyter Lecture Notes/images/37b2d63b6a0c30836766ef001cca17ffdeddd4d44798fb425d710744bc12512e.png
+Jupyter Lecture Notes/images/38d77569f836e2087b972e84ac9f41a5894e274faf7b36f24d084c61c2767641.png
+Jupyter Lecture Notes/images/39a6ff5bab57458d119f9d5dc365ef7958c4a921a5940dfb4ac63143007fc8fd.png
+Jupyter Lecture Notes/images/41a2021e0dc62096e6bc7d5f7b1eaeea7dbda0d47e3f5608800caa6dcd7f6b68.png
+Jupyter Lecture Notes/images/46ca1abdc3e816197cbbe45ec4a447d8f79ed7e5f8506187c8fc37f16cf97e4c.png
+Jupyter Lecture Notes/images/057c6ed60922062daa393542bad9f7a88a62af21b8b592cce16465a0d4676f23.png
+Jupyter Lecture Notes/images/71b993eaffe2d6f3486b436de821a5a479e304856b52897e344488f59c2fce42.png
+Jupyter Lecture Notes/images/73f0251655ef092e34389cc58bb344271660c513e6ed4d18b7cf289b07c7f15e.png
+Jupyter Lecture Notes/images/75dbb35ce86d19ba147b08c27a5834df81de36326f60bfe9a10d99e4bf04f22c.png
+Jupyter Lecture Notes/images/76f155313b265a54ac6a319f117b2aaaf944a87ebcfc08af5b8c569e61fa0a01.png
+Jupyter Lecture Notes/images/77acbf730d96e5846340cd93a7456635fe3fb2e4b52edb7238cc08c1012ceaf0.png
+Jupyter Lecture Notes/images/79e33dd969bdc71d5e4807720c7b9a87bac3f7bffd26ab73e822416222dab533.png
+Jupyter Lecture Notes/images/82a4ad38cd999b87f5ffcb65c2d74b9fa741c18538458026ba942312b3649cb5.png
+Jupyter Lecture Notes/images/83bb0efabc840a2b11c4129832cd22b15f3546fe15974d162dc3ea267ae9323d.png
+Jupyter Lecture Notes/images/93b0dfa80e87876454485c5e76fdd51cd9a7ae81eae6cac83875749008d34f07.png
+Jupyter Lecture Notes/images/93c4cd22761db5c21b7a6063c684293d3f559acc48e3bb674037dd302fe582c0.png
+Jupyter Lecture Notes/images/098f1ca5b8ff62257a1ac1ed70da51a8af9604d2bb63d22bb084b79cf2ac2d3e.png
+Jupyter Lecture Notes/images/99feed2770921d29e944312fc77287250530ab4f084b4d61c612c2e073dea451.png
+Jupyter Lecture Notes/images/103cc732302b430e4f2f6878218ab79e5021224c64f7f01f05a67b57c9b7ff85.png
+Jupyter Lecture Notes/images/121e12c3165d8abdfbfd98b8ac93fe7b22c48ac916c1ae45efc28778de7db058.png
+Jupyter Lecture Notes/images/142f3878fb806a5c83c3efb668dbe0d9994d59622ebe3152717b52317124ec54.png
+Jupyter Lecture Notes/images/255cc57fb915f50b52e9035e3e20432e32b3b00700d74bd2a9de400c9ce67717.png
+Jupyter Lecture Notes/images/322b27b51b0f839a2817df544b1ddaab822831f674e313c02766d7b6d374a70e.png
+Jupyter Lecture Notes/images/440cab7b4906d8a7dd6b0bbdb64f92cd9ea7579a5f99ac10b0f935f269e86d9d.png
+Jupyter Lecture Notes/images/569f3778e661b230ba24e3a70677babe4a035f521ff4657352e25e30125fe85a.png
+Jupyter Lecture Notes/images/651d7dfe10f34ed98811dd6275063e4ef6baa9d4c487d5a46f33fd3f1ae4fcf8.png
+Jupyter Lecture Notes/images/653e9ccbf95abd7f9fdbc3ef2ad8d52ada728f600a530edc0d67441f2077a341.png
+Jupyter Lecture Notes/images/666f516863456472b28f9a5ee67f048c878734d3d1e69bdfaef1c3a6c5817d73.png
+Jupyter Lecture Notes/images/711b086e2b7c84226b38d4b37135576f950d4dca9a15d26bf4b0ae8157b9d170.png
+Jupyter Lecture Notes/images/846cd3d67c1104af34c9fb1b483547b6c567d81c99939b6b9ec38b7d1bbc75c7.png
+Jupyter Lecture Notes/images/853px-Coin_Toss.jpg
+Jupyter Lecture Notes/images/878cdc7ed3e6c769de233e14399d219b55defc324b1102c94ba1988314a7c705.png
+Jupyter Lecture Notes/images/1838f368f220db9bc445e8553def7bcad1cca9aab38c0e9cb5a51b202a8f45fb.png
+Jupyter Lecture Notes/images/4065be9f514038e14ad5decde2110105247a21f9fb73c374342b73acd8c4c1d0.png
+Jupyter Lecture Notes/images/4568e2e96176997b981e9c3474c1ad4ae71b974348df05a97b878b594487e653.png
+Jupyter Lecture Notes/images/5035e1e3795a352e15b28b5e65971683d880eccba0d4ff0a8d542e8c3cd5d91d.png
+Jupyter Lecture Notes/images/5169aafdd99641b22a1643f0ec98016a6e6bc5ce969e48cbb230d6e2e7a07dd7.png
+Jupyter Lecture Notes/images/5885b68b25f83caca5721f46e86e8ff644f5cd2ed7ad164fd5384e114a1997ba.png
+Jupyter Lecture Notes/images/9483f2ae7e9b9c248f57869b978619b2800213b421785d0d1f044377b37db664.png
+Jupyter Lecture Notes/images/9698bd90f98a2bd0e4d0daaa096fb608c32b8a280b66c181f8b09a3c475fdcdf.png
+Jupyter Lecture Notes/images/23264d51a11425261f4b2433203d860e44a3f76468b89538c610c2b5b3318e18.png
+Jupyter Lecture Notes/images/25885ac586717ca5458553145c02cf902f165d1c2df1e26c7a619caaee91cfef.png
+Jupyter Lecture Notes/images/42770ffc272b5b1b705d3c0d35b8a62638624028dd7f220f77c21128dff822dc.png
+Jupyter Lecture Notes/images/64319d7821a85c85e7229b8c7e7c924e7a0b8e2e88f027a914bba78475c64871.png
+Jupyter Lecture Notes/images/488960f77e2febd281f83019da43fe02215387538ca0dcd62b71a238ccd18a72.png
+Jupyter Lecture Notes/images/7444091bea0c92e4d3f749739210449644a684b2d35d56e92d8fea9208012c13.png
+Jupyter Lecture Notes/images/98839479c84f32d7718027b4506db9b14aeae75377a12e4a36fdecc23defd25b.png
+Jupyter Lecture Notes/images/767874353fcce53448e7008b5f606725b0e21bc74abc4f742a8f11d7ef95133d.png
+Jupyter Lecture Notes/images/4773528865e306f5db9306a34a61b197af47c6656cf36e088fb542623eab6a78.png
+Jupyter Lecture Notes/images/833689329340c7af7b08f6b220f1bbafacb8c80ed90eae0510147352e49945f8.png
+Jupyter Lecture Notes/images/4393888532561b8dcb7fe45d15da7a583206e6c07d280a3724f870de3d3aca73.png
+Jupyter Lecture Notes/images/a1f6e5900ec59f45728f6fea5546c32f669a3ff4818aa531d085dc52708aa28c.png
+Jupyter Lecture Notes/images/a3c025f841e8e13aec537c70b4e9f86e286dadaeedf81e86e64c3534f465ef49.png
+Jupyter Lecture Notes/images/a17b1f60903e39d8e1e85a3570172944a65767e9785a38838ca7a9c156221e75.png
+Jupyter Lecture Notes/images/a22d0e0b742b42e4b61bdf581bd7c061c8ce8492f955688f2fe428558cdcb44f.png
+Jupyter Lecture Notes/images/a70c0dfc31fc7b55a2b0704d1244c48c4045b65b9d58a7a4eb55082cece56770.png
+Jupyter Lecture Notes/images/a83bc0ce5fc66060fe763bb5f73cd0ad66ca6f60d78d152d2cac14c61a24cf7c.png
+Jupyter Lecture Notes/images/a19619a879e6b5a0f412aa43f26ca7effbf3512f44c641110e21d7f319c98dc5.png
+Jupyter Lecture Notes/images/a41901aaf3bf76a6bbd61f70df4ad31c2378b27a6c8376803427933e5c4335ea.png
+Jupyter Lecture Notes/images/aa9d2b3f0c84c0fe81d1af88891b3d32dc41fc2746eb0167234cc5002a89824b.png
+Jupyter Lecture Notes/images/AAMarkov.jpg
+Jupyter Lecture Notes/images/acbb0a8b1a66509b06f30a2c56231861622262487462cd8b26c84bf89da9b498.png
+Jupyter Lecture Notes/images/ad4f20796aae0b5aeba4723abb9e0e94b7fa18f73dfeaeb1c21ad46d701374c5.png
+Jupyter Lecture Notes/images/af602003237a48a467d58bd64218c1be73d8ae2d2a70a388b637c488a33f593b.png
+Jupyter Lecture Notes/images/Anscombe's_quartet_3.png
+Jupyter Lecture Notes/images/b3c5a5f1b32719831f3891704ea6ffc9a61d6cd30bcfa3433308ee9f597b2dfc.png
+Jupyter Lecture Notes/images/b5a52f90e7c276315a02bf30f6563b5ead51955d913afa98d3b81826b032a556.png
+Jupyter Lecture Notes/images/b9f5787aa63d1a66942dccbe0a76f07ca771a19873bf93aded74008bc60febb3.png
+Jupyter Lecture Notes/images/b47b432463c758b744626553d7e2dbffd5106bde9e4b784519fb8eac929ff1ef.png
+Jupyter Lecture Notes/images/b75c696087ce9f46c34192f5f5ed52dfd325490c4bb580ec79cb54e033352e93.png
+Jupyter Lecture Notes/images/b96a0f096095258a0808c82312738af440c17d1a3e8af033013b2d945ec6c9dd.png
+Jupyter Lecture Notes/images/b3501775a2686f3b31e9ad76a44d7af34b8b70b46b189cadda4f44ace6e56746.png
+Jupyter Lecture Notes/images/ba7efcb8d0b22be5cf7a7e956bb9e25102977d228775a5c9e5602869354724e0.png
+Jupyter Lecture Notes/images/Bayes-Frequentism.png
+Jupyter Lecture Notes/images/bd06519be45309556533a2d6ec9c0df14d3458ed5eaec730068c159e257ce747.png
+Jupyter Lecture Notes/images/bef865a78d090eec24fb0e7e0c9a9be9890c55f2cad7a87ba752f3e6f5248d10.png
+Jupyter Lecture Notes/images/Bernhard_Riemann.jpeg
+Jupyter Lecture Notes/images/bias_variance_tradeoff.png
+Jupyter Lecture Notes/images/Blaise_Pascal_2web.jpg
+Jupyter Lecture Notes/images/c0eb0888a81f720b7861f0b24bbb89e357728762049a87049d0437fee125376b.png
+Jupyter Lecture Notes/images/c1edc8cc4b1fdea8a7c8179ceaaf58a86f76f90ebfb41c3435b9ce81929ec6bc.png
+Jupyter Lecture Notes/images/c16d17e57c32b82a2f2d3859f4ef6b974c0ad6b65b1a83005053661995ad49e9.png
+Jupyter Lecture Notes/images/c19d8ec4a2f7d4ba1ee763974361f6b51efc6085325213a460b058cccb36428c.png
+Jupyter Lecture Notes/images/c52dc2da5dfedfa9762acbb3dec3b1c14c3e8eb162b1ba22e16742dedc3420f5.png
+Jupyter Lecture Notes/images/c712abbd3c686b06122d94dc8d95976ce74c3a5c0831c9d14322aced1c56681d.png
+Jupyter Lecture Notes/images/cat_or_dog.jpg
+Jupyter Lecture Notes/images/cc6716db38d8be0bb7c3a1be63790003424b87b6fcc45736393cf499136588bd.png
+Jupyter Lecture Notes/images/cd8defc595b74d9021f1def5d3e9a0635b3b5fac865f1b59b1719fae1bcde9bb.png
+Jupyter Lecture Notes/images/Coin_Toss.jpg
+Jupyter Lecture Notes/images/complex-landscape.png
+Jupyter Lecture Notes/images/convex-cost-function.png
+Jupyter Lecture Notes/images/d1d9f1ee071538c2a729e871a01332e9d5378a652280d7f279ac63004f07ace8.png
+Jupyter Lecture Notes/images/d50cc022dd6f8c7ad07c639a166483dbd534433e1fed976207b0c0d4107b281e.png
+Jupyter Lecture Notes/images/d338ef923d78026abdb75aa8034f21c0e016b444714bdb61adc0c8a6d7dc1f4d.png
+Jupyter Lecture Notes/images/d5998a272e7e74caca99fed9fd269251543e5c06e8f825f2b95fbda3bb6e58cd.png
+Jupyter Lecture Notes/images/d76184490f8704740ea17626e1f0810580d869dc8d25ac065867ace971b813e5.png
+Jupyter Lecture Notes/images/d561774501cf02a8f20aa6f5f9826cc8d49407ebc792ea66bdef2d4a483af9ec.png
+Jupyter Lecture Notes/images/DALL-E-2023-03-08-15.36.42-Two-basketball-teams-in-a-close-game,-photorealistic.png
+Jupyter Lecture Notes/images/DALLE-23-third-graders-in-a-scientific-study.png
+Jupyter Lecture Notes/images/DALLE-2023-03-08-14.00.24-two-bowls-of-cookies,-one-containing-more-vanilla-cookies-than-the-other.png
+Jupyter Lecture Notes/images/DALLE-a-hand-reaching-into-a-cerarmic-cookie-jar.png
+Jupyter Lecture Notes/images/DALLE-A-penguin-eating-a-can-of-spam.png
+Jupyter Lecture Notes/images/DALLE-a-person-standing-behind-a-large-number-of-bowls-filled-with-cookies-with-a-question-mark-over-his-head.png
+Jupyter Lecture Notes/images/DALLE-Anime-drawing-of-a-French-soccer-player-scoring-a-goal-against-croatian-goalie-in-the-world-cup.png
+Jupyter Lecture Notes/images/DALLE-Dungeons-and-Dragons-character-is-armed-with-a-dagger-in-one-hand-and-a-short-sword-in-the-other-photorealistic.png
+Jupyter Lecture Notes/images/DALLE-jewlery-store.png
+Jupyter Lecture Notes/images/DALLE-person-watching-a-train-go-by-with-the-number-60-on-its-front.png
+Jupyter Lecture Notes/images/DALLE-seven-bowls-containing-differing-mixtures-of-vanilla-and-chocolate-cookies.png
+Jupyter Lecture Notes/images/DALLE-The-Cyberpunk-Grizzly-Bear-Problem.png
+Jupyter Lecture Notes/images/DataSaurus.gif
+Jupyter Lecture Notes/images/dc816bc371daf6958d0e87bdb4127e9454d00385073f5c5764330be6407b27b5.png
+Jupyter Lecture Notes/images/dd575a75298bf863a596f1cb515c3f38a8466431d2b1d9f6f129681159ea51c3.png
+Jupyter Lecture Notes/images/dda32615a049f995e082b24ae0624abd7d67a31365547f8bc18707f6b59f96da (1).png
+Jupyter Lecture Notes/images/dda32615a049f995e082b24ae0624abd7d67a31365547f8bc18707f6b59f96da.png
+Jupyter Lecture Notes/images/de512b5607bb794b5b1f676dc0a9d180ed7ae40215d75c28e8344fd0f1e0227a.png
+Jupyter Lecture Notes/images/de58840368f4eca331c842d8f3b83cf5f4b8323703e21881a63d3808cb7730fd.png
+Jupyter Lecture Notes/images/doctor-g0d80a1aa1_1920.jpg
+Jupyter Lecture Notes/images/e1ff2eee2dab4e358de1c0cde249f65707ecab623621b47815740a76e6bc0561.png
+Jupyter Lecture Notes/images/e2f239248067bc439616d3632e9a405e380e07a19616251869d8718b70355d5a.png
+Jupyter Lecture Notes/images/e9b38cc87ec963c2167c473424adbb4b8e951e69e5f61d4e2a9aaf65545a3820.png
+Jupyter Lecture Notes/images/e42c1a36de6eb697fb842ad118a96049ed8604bc25c1ac25b9396bbc1dda3668.png
+Jupyter Lecture Notes/images/e052daeac0ea929fbfe9b85b607d2ba235f8d6f74f86660f1d9f395bc84343e9.png
+Jupyter Lecture Notes/images/e82e8f442e5bb8b119962ebe340a41401f7256ca2f795bccaf6b4410db5f70d6.png
+Jupyter Lecture Notes/images/e90d8c2ce61f242087a7f8547325e7b186306ed1e0dbf4bba8bd0e5e0c00db4b.png
+Jupyter Lecture Notes/images/e359a7f0bc4062bf811c361b9b0b7b6253728ebc22b704f4be6a7609d5abf68a.png
+Jupyter Lecture Notes/images/e950e3a6d4b7da5bda89136afb12fcd0885abfb47c79e647f65b45c4254c302b.png
+Jupyter Lecture Notes/images/e5068cc709adc365f135d82748632d1048e4271539cbdec9dc7523db68200c10.png
+Jupyter Lecture Notes/images/e14979c81bd8cf359ae12cb4575d46ae1d662545c9ebe4c461e2a8245147cd9f.png
+Jupyter Lecture Notes/images/ea87f4a5abe1632cfa0c121b288b864f8f8187fdec0003d87698b206adc9d69a.png
+Jupyter Lecture Notes/images/eaf865fff11b75df8917aad3fade8977e698cbfb857bb0f3e8e9a3328929eed5.png
+Jupyter Lecture Notes/images/ed85161ec5e8bbc33ae8057a1b131dee0f3a4cdb51726ff572e65e071a5fe08c.png
+Jupyter Lecture Notes/images/ee6bbf27edadec075f4afc0aa928ce2b56238df7869192a8a2e6d4c55775f6e0.png
+Jupyter Lecture Notes/images/ef0bd26fa87e2e353eda9884b695ba80434fb38e3b71d31552cd9c7c8d2e62f5.png
+Jupyter Lecture Notes/images/ef9ab9826fa622454af269679c5e5b23517bf5516a7196bad7da35a01ccd38bb.png
+Jupyter Lecture Notes/images/Egon_Pearson.jpg
+Jupyter Lecture Notes/images/eight-cups-of-test.png
+Jupyter Lecture Notes/images/enriched-pval-dist-color.png
+Jupyter Lecture Notes/images/enriched-pval-dist.png
+Jupyter Lecture Notes/images/Euro_Coin_Markov.png
+Jupyter Lecture Notes/images/f21c4720caad725c63222ba5afe5fb57c00961bcc6e9c7ea33930ea1c4fb3c7d.png
+Jupyter Lecture Notes/images/f27a1f19efbb091a2fe8c7aa1e572978eb21ba6f5d7b3d9cd990ee77c2869843.png
+Jupyter Lecture Notes/images/f49e0642d955f74ca745ecca0a0a4663ea5b8f4d761a4a55ff347da1e968755b.png
+Jupyter Lecture Notes/images/f324a43ea299a3b05a4a8475d334052c5a3fd72c9d3b65167d80c539e67a2398.png
+Jupyter Lecture Notes/images/f8261c5f0b4ae23c8bf3ccbdef0672c077e704b6f368f594a2a1444948a1bcdc.png
+Jupyter Lecture Notes/images/f78855be4cee0c5cf951f1ab0050a2d4450b9e8bba10e26c7e360006c66f2d13.png
+Jupyter Lecture Notes/images/f8484356ba0145d8e200faf15dd951a057ff78fd549ea45fe562cb46000ec8dc.png
+Jupyter Lecture Notes/images/ff0f64215d0abd22b847256f04d9d745a171af4b1d9594296189b6ab63d61d86.png
+Jupyter Lecture Notes/images/ff05c5225417033cd1ef125e96363e8b689ec50864743418ad170966de0b6d2b.png
+Jupyter Lecture Notes/images/ff6d9e3fb7680eff4086ad1b01f5b66f95d005d753fafdfccc1e46de42c71391.png
+Jupyter Lecture Notes/images/ff92dc12f161cd5de17bbb439493217aa292fdc0386540363ee60c1a13728b56.png
+Jupyter Lecture Notes/images/Fisher.jpg
+Jupyter Lecture Notes/images/fog-in-the-mountains.png
+Jupyter Lecture Notes/images/Galton-Bean-Machine.png
+Jupyter Lecture Notes/images/Gauss-on-Deutschemark.png
+Jupyter Lecture Notes/images/gradient-of-convex.png
+Jupyter Lecture Notes/images/Grid-Bayesian-Update.jpg
+Jupyter Lecture Notes/images/Guiness.jpg
+Jupyter Lecture Notes/images/HMM_baby_monitor.svg
+Jupyter Lecture Notes/images/HMM_chain.svg
+Jupyter Lecture Notes/images/HMM_diagram_no_start.svg
+Jupyter Lecture Notes/images/Isaac_Barrow.jpg
+Jupyter Lecture Notes/images/Jerzy-Neyman.jpg
+Jupyter Lecture Notes/images/l6f1.png
+Jupyter Lecture Notes/images/llik_norm.jpg
+Jupyter Lecture Notes/images/mc-example-2.png
+Jupyter Lecture Notes/images/mc-example-3.png
+Jupyter Lecture Notes/images/mc-example-4.jpeg
+Jupyter Lecture Notes/images/mc-example-5.jpeg
+Jupyter Lecture Notes/images/mc-example.png
+Jupyter Lecture Notes/images/Monty_open_door.svg
+Jupyter Lecture Notes/images/natural_log_max.png
+Jupyter Lecture Notes/images/other-pval-dist.png
+Jupyter Lecture Notes/images/Overview_statistical_tests.png
+Jupyter Lecture Notes/images/overview-statistical-tests-statsandr.png
+Jupyter Lecture Notes/images/Pdf_integral.png
+Jupyter Lecture Notes/images/pinker-glow-worms-and-stars-plot.jpg
+Jupyter Lecture Notes/images/population_sample.png
+Jupyter Lecture Notes/images/POS_1.png
+Jupyter Lecture Notes/images/POS_diagram.svg
+Jupyter Lecture Notes/images/POS_example.png
+Jupyter Lecture Notes/images/Probability_distribution_functions_for_normal_distribution.svg
+Jupyter Lecture Notes/images/pval-dist-FDR-lines.png
+Jupyter Lecture Notes/images/pval-dist-FDR.png
+Jupyter Lecture Notes/images/Riemann_sum.png
+Jupyter Lecture Notes/images/sampling_distribution_original.png
+Jupyter Lecture Notes/images/sampling_distribution.png
+Jupyter Lecture Notes/images/second_derivative_test.png
+Jupyter Lecture Notes/images/significant.png
+Jupyter Lecture Notes/images/single-die.png
+Jupyter Lecture Notes/images/Stable-Diffusion-photorealistic-bandit-one-arm-playing-slot-machine.jpg
+Jupyter Lecture Notes/images/Stable-Diffusion-photorealistic-tall-person-and-short-person.jpg
+Jupyter Lecture Notes/images/Student_t.png
+Jupyter Lecture Notes/images/Sunny_Rainy2.png
+Jupyter Lecture Notes/images/toy_corpus_color.svg
+Jupyter Lecture Notes/images/toy_corpus_plain.svg
+Jupyter Lecture Notes/images/Uniform_discrete_pmf.svg
+Jupyter Lecture Notes/images/uniform-pval-dist.png
+Jupyter Lecture Notes/images/vaccine-g1396974be_1920.jpg
+Jupyter Lecture Notes/images/Viterbi_diagram_forward.svg
+Jupyter Lecture Notes/images/Viterbi_diagram_forward1a_baby_monitor.svg
+Jupyter Lecture Notes/images/Viterbi_diagram_forward1b_baby_monitor.svg
+Jupyter Lecture Notes/images/Viterbi_diagram_forward2_baby_monitor.svg
+Jupyter Lecture Notes/images/Viterbi_diagram_initialization_baby_monitor.svg
+Jupyter Lecture Notes/images/Viterbi_diagram_initialization.svg
+PDF Lecture Notes/01-Intro-Probability-Review.pdf
+PDF Lecture Notes/02-Distributions.pdf
+PDF Lecture Notes/03-Continuous-Distributions.pdf
+PDF Lecture Notes/04-Joint-Distributions.pdf
+PDF Lecture Notes/05-Functions-of-Random-Variables.pdf
+PDF Lecture Notes/06-Frequentism.pdf
+PDF Lecture Notes/07-Central-Limit-Theorem.pdf
+PDF Lecture Notes/08-Sampling.pdf
+PDF Lecture Notes/09-Confidence.pdf
+PDF Lecture Notes/10-Hypothesis-Testing.pdf
+PDF Lecture Notes/11-Multiple-Hypothesis-Testing.pdf
+PDF Lecture Notes/12-Testing-in-Practice.pdf
+PDF Lecture Notes/13-Error-Rate-and-False-Discovery.pdf
+PDF Lecture Notes/14-Parameter-Estimation-Estimators.pdf
+PDF Lecture Notes/15-Parameter-Estimation-Model-Fitting.pdf
+PDF Lecture Notes/16-Bayes-Theorem.pdf
+PDF Lecture Notes/17-Bayes-Theorem-Part2.pdf
+PDF Lecture Notes/18-Distributions.pdf
+PDF Lecture Notes/19-Estimating-Proportions.pdf
+PDF Lecture Notes/20-Estimating-Counts.pdf
+PDF Lecture Notes/21-Parameter-Estimation-MLE.pdf
+PDF Lecture Notes/22-Bayesian-Testing.pdf
+PDF Lecture Notes/23-Comparison.pdf
+PDF Lecture Notes/24-Classification.pdf
+PDF Lecture Notes/25-Inference.pdf
+PDF Lecture Notes/26-Inference-Part2.pdf
+PDF Lecture Notes/27-Conjugate-Priors.pdf
+PDF Lecture Notes/28-Markov-Chains.pdf
+PDF Lecture Notes/29-MCMC.pdf
+PDF Lecture Notes/30-MCMC-2-PyMC.pdf
+PDF Lecture Notes/31-HMM-1.pdf
+PDF Lecture Notes/32-HMM-2.pdf
+PDF Lecture Notes/33-HMM-3.pdf
+PDF Lecture Notes/34-Gradients.pdf
+PDF Lecture Notes/35-Gradient-Descent.pdf
+PDF Lecture Notes/36-Improvements-to-GD.pdf
+PDF Lecture Notes/37-Poisson-Processes.pdf
